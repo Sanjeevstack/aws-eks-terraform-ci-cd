@@ -26,5 +26,5 @@ This project deploys a sample Python app to AWS EKS using Terraform and GitHub A
 
 1. **Clone Repo**
 ```bash
-git clone https://github.com/yourname/aws-eks-terraform-ci-cd.git
+git clone https://github.com/Sanjeevstack/aws-flask-eks-devops.git
 
